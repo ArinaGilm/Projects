@@ -1,0 +1,77 @@
+body{
+    background-color:#cccccc;
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: medium;
+    margin: 0px;
+}
+  
+header {
+    background-color:black;
+    margin: 10px 10px 0px 10px;
+    height: 80px;
+}
+header img#bmwlogo {
+float: right;
+margin: 0px 0px 0px 390px;
+}
+header img#mlogo {
+    float: right;
+}
+
+nav {
+    background-color: #aaaaaa;
+    margin: 10px 10px 0px 10px;
+      }
+nav ul {
+    margin: 0px;
+    list-style-type: none;
+    padding: 5px 0px 5px 0px;
+      }
+nav ul li {
+    display: inline;
+    padding: 5px 10px 5px 10px;
+      }
+nav ul li a:link, nav ul li a:visited {
+    color: #333333;
+    border-bottom: none;
+    text-decoration: none;
+    font-weight: bold;
+}
+#germancar {
+    font-family: fantasy;
+    border-width: thin;
+    border-style: dashed;
+    border-color: grey;
+    font-size: 110%;
+    text-align: center;
+    line-height: 2;
+    color:#111111;
+    padding: 15px;
+    margin: 0px 10px 10px 10px;
+}
+#vseavto { 
+    font-size: 120%;
+    text-align: center;
+    padding: 15px;
+    margin: 10px;
+    margin: 0px 10px 0px 10px;
+    }
+.audi {
+    background-color:#FAFAD2;
+}
+.bmw {
+    background-color: #a8b3c2;
+}
+
+footer {
+    background-color:#aaaaaa;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: x-small;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+
+
