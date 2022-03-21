@@ -25,6 +25,8 @@ function getAge() {
 
 const algorithm = ifdecember?ageDiscountAlgorithm:ageDiscountAlgorithm2;
 
+
+
 const discount = calculateDiscount (algorithm);
 
 
